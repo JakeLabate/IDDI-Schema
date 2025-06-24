@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/resources/risk-based-fraud-detection-how-centralized-monitoring-can-boost-data-quality#WebPage",
+      "url": "https://iddi.com/resources/risk-based-fraud-detection-how-centralized-monitoring-can-boost-data-quality",
+      "name": "Risk Based Fraud Detection how Centralized Monitoring can Boost Data Quality"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/resources/risk-based-fraud-detection-how-centralized-monitoring-can-boost-data-quality#BreadcrumbList",
+      "url": "https://iddi.com/resources/risk-based-fraud-detection-how-centralized-monitoring-can-boost-data-quality",
+      "name": "Risk Based Fraud Detection how Centralized Monitoring can Boost Data Quality"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}

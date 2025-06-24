@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/resources/evaluating-the-potential-of-relapse-free-survival-as-a-surrogate-for-overall-survival-in-the-adjuvant-therapy-of-melanoma-with-checkpoint-inhibitors#WebPage",
+      "url": "https://iddi.com/resources/evaluating-the-potential-of-relapse-free-survival-as-a-surrogate-for-overall-survival-in-the-adjuvant-therapy-of-melanoma-with-checkpoint-inhibitors",
+      "name": "Evaluating The Potential of Relapse Free Survival as a Surrogate for Overall Survival in The Adjuvant Therapy of Melanoma with Checkpoint Inhibitors"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/resources/evaluating-the-potential-of-relapse-free-survival-as-a-surrogate-for-overall-survival-in-the-adjuvant-therapy-of-melanoma-with-checkpoint-inhibitors#BreadcrumbList",
+      "url": "https://iddi.com/resources/evaluating-the-potential-of-relapse-free-survival-as-a-surrogate-for-overall-survival-in-the-adjuvant-therapy-of-melanoma-with-checkpoint-inhibitors",
+      "name": "Evaluating The Potential of Relapse Free Survival as a Surrogate for Overall Survival in The Adjuvant Therapy of Melanoma with Checkpoint Inhibitors"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}

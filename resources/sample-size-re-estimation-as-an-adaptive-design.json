@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/resources/sample-size-re-estimation-as-an-adaptive-design#WebPage",
+      "url": "https://iddi.com/resources/sample-size-re-estimation-as-an-adaptive-design",
+      "name": "Sample Size Re Estimation as an Adaptive Design"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/resources/sample-size-re-estimation-as-an-adaptive-design#BreadcrumbList",
+      "url": "https://iddi.com/resources/sample-size-re-estimation-as-an-adaptive-design",
+      "name": "Sample Size Re Estimation as an Adaptive Design"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}

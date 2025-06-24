@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/resources/iddi-mva-good-morning-meeting-generalized-pairwise-comparisons-gpc#WebPage",
+      "url": "https://iddi.com/resources/iddi-mva-good-morning-meeting-generalized-pairwise-comparisons-gpc",
+      "name": "Iddi Mva Good Morning Meeting Generalized Pairwise Comparisons Gpc"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/resources/iddi-mva-good-morning-meeting-generalized-pairwise-comparisons-gpc#BreadcrumbList",
+      "url": "https://iddi.com/resources/iddi-mva-good-morning-meeting-generalized-pairwise-comparisons-gpc",
+      "name": "Iddi Mva Good Morning Meeting Generalized Pairwise Comparisons Gpc"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}

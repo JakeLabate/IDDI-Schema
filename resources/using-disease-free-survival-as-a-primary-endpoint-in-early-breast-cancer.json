@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/resources/using-disease-free-survival-as-a-primary-endpoint-in-early-breast-cancer#WebPage",
+      "url": "https://iddi.com/resources/using-disease-free-survival-as-a-primary-endpoint-in-early-breast-cancer",
+      "name": "Using Disease Free Survival as a Primary Endpoint in Early Breast Cancer"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/resources/using-disease-free-survival-as-a-primary-endpoint-in-early-breast-cancer#BreadcrumbList",
+      "url": "https://iddi.com/resources/using-disease-free-survival-as-a-primary-endpoint-in-early-breast-cancer",
+      "name": "Using Disease Free Survival as a Primary Endpoint in Early Breast Cancer"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}

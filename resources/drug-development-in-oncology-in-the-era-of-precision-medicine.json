@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/resources/drug-development-in-oncology-in-the-era-of-precision-medicine#WebPage",
+      "url": "https://iddi.com/resources/drug-development-in-oncology-in-the-era-of-precision-medicine",
+      "name": "Drug Development in Oncology in The Era of Precision Medicine"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/resources/drug-development-in-oncology-in-the-era-of-precision-medicine#BreadcrumbList",
+      "url": "https://iddi.com/resources/drug-development-in-oncology-in-the-era-of-precision-medicine",
+      "name": "Drug Development in Oncology in The Era of Precision Medicine"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}

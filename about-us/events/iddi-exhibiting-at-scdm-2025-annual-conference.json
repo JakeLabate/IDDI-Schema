@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/about-us/events/iddi-exhibiting-at-scdm-2025-annual-conference#WebPage",
+      "url": "https://iddi.com/about-us/events/iddi-exhibiting-at-scdm-2025-annual-conference",
+      "name": "Iddi Exhibiting at Scdm 2025 Annual Conference"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/about-us/events/iddi-exhibiting-at-scdm-2025-annual-conference#BreadcrumbList",
+      "url": "https://iddi.com/about-us/events/iddi-exhibiting-at-scdm-2025-annual-conference",
+      "name": "Iddi Exhibiting at Scdm 2025 Annual Conference"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/resources/designing-a-randomized-trial-with-sample-size-re-estimation-challenges-and-best-practices#WebPage",
+      "url": "https://iddi.com/resources/designing-a-randomized-trial-with-sample-size-re-estimation-challenges-and-best-practices",
+      "name": "Designing a Randomized Trial with Sample Size Re Estimation Challenges and Best Practices"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/resources/designing-a-randomized-trial-with-sample-size-re-estimation-challenges-and-best-practices#BreadcrumbList",
+      "url": "https://iddi.com/resources/designing-a-randomized-trial-with-sample-size-re-estimation-challenges-and-best-practices",
+      "name": "Designing a Randomized Trial with Sample Size Re Estimation Challenges and Best Practices"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}

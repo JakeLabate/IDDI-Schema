@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://iddi.com/about-us/news/iddi-appoints-linda-danielson-as-its-new-chief-executive-officer#WebPage",
+      "url": "https://iddi.com/about-us/news/iddi-appoints-linda-danielson-as-its-new-chief-executive-officer",
+      "name": "Iddi Appoints Linda Danielson as Its New Chief Executive Officer"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://iddi.com/about-us/news/iddi-appoints-linda-danielson-as-its-new-chief-executive-officer#BreadcrumbList",
+      "url": "https://iddi.com/about-us/news/iddi-appoints-linda-danielson-as-its-new-chief-executive-officer",
+      "name": "Iddi Appoints Linda Danielson as Its New Chief Executive Officer"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://iddi.com#WebSite",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://iddi.com#Organization",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://iddi.com#Brand",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    },
+    {
+      "@type": "AggregateRating",
+      "@id": "https://iddi.com#AggregateRating",
+      "url": "https://iddi.com",
+      "name": "IDDI"
+    }
+  ]
+}
