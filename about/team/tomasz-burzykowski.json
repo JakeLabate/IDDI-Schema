@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/about/team/tomasz-burzykowski",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

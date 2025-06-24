@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/biomarker-based-clinical-trial-designs",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

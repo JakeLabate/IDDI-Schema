@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/randomized-clinical-trials-impact-of-covid-19",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

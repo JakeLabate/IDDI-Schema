@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/pitfalls-to-avoid-in-clinical-data-collection-and-management",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

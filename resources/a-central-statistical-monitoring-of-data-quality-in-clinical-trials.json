@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/a-central-statistical-monitoring-of-data-quality-in-clinical-trials",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

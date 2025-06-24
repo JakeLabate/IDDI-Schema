@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/about-us/news/message-from-our-ceo-on-covid-19",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

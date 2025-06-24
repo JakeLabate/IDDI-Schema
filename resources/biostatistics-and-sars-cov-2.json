@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/biostatistics-and-sars-cov-2",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

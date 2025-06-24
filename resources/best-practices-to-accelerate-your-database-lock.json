@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/best-practices-to-accelerate-your-database-lock",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/better-clinical-endpoints",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

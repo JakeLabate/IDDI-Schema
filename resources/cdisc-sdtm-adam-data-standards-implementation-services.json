@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/cdisc-sdtm-adam-data-standards-implementation-services",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

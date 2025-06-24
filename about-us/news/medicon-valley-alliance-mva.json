@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/about-us/news/medicon-valley-alliance-mva",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

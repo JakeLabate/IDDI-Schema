@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/drug-development-in-oncology-and-precision-medicine",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },

@@ -9,7 +9,7 @@
       "isPartOf": {
         "@type": "WebSite",
         "@id": "https://iddi.com#WebSite",
-        "url": "https://iddi.com/resources/podcast-series-the-fdas-project-optimus-dose-optimization",
+        "url": "https://iddi.com",
         "name": "IDDI"
       }
     },
